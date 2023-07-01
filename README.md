@@ -1,7 +1,7 @@
 # IMA206
 Generative networks, patch methods, computational photography
 
-Concerning the project : 
+## Project : 
 
 *U-Net for Cardiac MRI Segmentation*
 
@@ -12,7 +12,7 @@ In this project, we will employ deep learning techniques, specifically the popul
 This project offers an opportunity to gain hands-on experience with deep learning, medical image analysis, and cardiac MRI segmentation. It provides a platform to investigate advanced techniques and assess the performance and generalization of deep learning models in this specific domain.
 
 *** 
-Class notions : 
+## Class notions : 
 
 Image Restoration and Computational Photography
 
